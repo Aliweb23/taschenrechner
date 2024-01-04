@@ -32,14 +32,14 @@ body {
 .display {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content:center;
     width: 250px;
     height: 60px;
     background-color: azure;
     border-radius: 150px;
     margin: 30px 15px;
     padding: 0 10px;
-    font-size: 48px;
+    font-size: 40px;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5), -3px -3px 10px #fff;
 }
 
